@@ -27,6 +27,8 @@ Locate the directory in your file explorer
 
 `cd TDD`
 
+## 👤 AUTHORS
+
 👤 **Haamid Ali**
 
 - GitHub: [@Haadiiii](https://github.com/Haadiiii)
