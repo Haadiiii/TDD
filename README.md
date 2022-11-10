@@ -8,6 +8,7 @@
 
 - Ruby
 - Terminal
+- Rubocop(linters)
 - rspec
 
 ## Live Demo (if available)
@@ -17,8 +18,6 @@
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
-
-## Install
 
 In your terminal, navigate to your current directory and run this code
 
